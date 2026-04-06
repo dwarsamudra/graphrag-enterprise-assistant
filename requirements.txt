@@ -1,1 +1,5 @@
-
+streamlit
+requests
+numpy
+neo4j
+python-dotenv
